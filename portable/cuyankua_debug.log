@@ -1,0 +1,26 @@
+22:43:22 abrir ruta=C:\Windows\Media\Alarm01.wav hwnd=None start_ms=0 play_rc=0
+22:43:22 abrir: True
+22:43:30 t_ini=0 t_fin=5477 playing=0
+22:43:30 SELFTEST: OK
+22:43:37 abrir ruta=H:\movies\Coraline (2009) 1080p.mkv hwnd=3408664 start_ms=0 play_rc=0
+22:43:37 tocar ruta=H:\movies\Coraline (2009) 1080p.mkv ok=True
+22:43:39 tick playing=1 t=1613 dur=6036256 ruta=H:\movies\Coraline (2009) 1080p.mkv
+22:43:41 tick playing=1 t=3573 dur=6036256 ruta=H:\movies\Coraline (2009) 1080p.mkv
+22:43:43 tick playing=1 t=5617 dur=6036256 ruta=H:\movies\Coraline (2009) 1080p.mkv
+22:43:45 tick playing=1 t=7536 dur=6036256 ruta=H:\movies\Coraline (2009) 1080p.mkv
+22:43:47 tick playing=1 t=9588 dur=6036256 ruta=H:\movies\Coraline (2009) 1080p.mkv
+22:43:49 tick playing=1 t=11713 dur=6036256 ruta=H:\movies\Coraline (2009) 1080p.mkv
+22:43:52 tick playing=1 t=13665 dur=6036256 ruta=H:\movies\Coraline (2009) 1080p.mkv
+22:43:54 tick playing=1 t=15844 dur=6036256 ruta=H:\movies\Coraline (2009) 1080p.mkv
+22:43:56 tick playing=1 t=17892 dur=6036256 ruta=H:\movies\Coraline (2009) 1080p.mkv
+22:43:58 tick playing=1 t=20017 dur=6036256 ruta=H:\movies\Coraline (2009) 1080p.mkv
+22:44:00 tick playing=1 t=22012 dur=6036256 ruta=H:\movies\Coraline (2009) 1080p.mkv
+22:44:02 tick playing=1 t=24145 dur=6036256 ruta=H:\movies\Coraline (2009) 1080p.mkv
+22:44:04 tick playing=1 t=26313 dur=6036256 ruta=H:\movies\Coraline (2009) 1080p.mkv
+22:45:21 abrir ruta=H:\movies\Coraline (2009) 1080p.mkv hwnd=6882652 start_ms=0 play_rc=0
+22:45:21 tocar ruta=H:\movies\Coraline (2009) 1080p.mkv ok=True
+22:45:22 tick playing=1 t=1278 dur=6036256 ruta=H:\movies\Coraline (2009) 1080p.mkv
+22:45:24 tick playing=1 t=1613 dur=6036256 ruta=H:\movies\Coraline (2009) 1080p.mkv
+22:45:26 tick playing=1 t=2741766 dur=6036256 ruta=H:\movies\Coraline (2009) 1080p.mkv
+22:45:28 tick playing=1 t=2743726 dur=6036256 ruta=H:\movies\Coraline (2009) 1080p.mkv
+22:45:29 CIERRE ventana (al_cerrar)
